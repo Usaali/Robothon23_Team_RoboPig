@@ -46,5 +46,5 @@ For a more detailed overview, please take a look at the [pdf version](https://gi
 - Update all positions depending on the camera detection
 
 ## Submission videos
-- The 5 minute video containing a video of our team explaining the solution to the taskboard and a BYOD demo of our robot platform can be found [here](https://cloud.fhws.de/s/XMiiNnsXjnTxfKD)
-- The 10 minute video showing our solution doing the Taskboard challenge 5 times can be found [here](https://cloud.fhws.de/s/nXWnQFLCZbzyewY)
+- The 5 minute video containing a video of our team explaining the solution to the taskboard and a BYOD demo of our robot platform can be found [here](https://cloud.thws.de/s/anzQttT7rmpf3Sn)
+- The 10 minute video showing our solution doing the Taskboard challenge 5 times can be found [here](https://cloud.thws.de/s/D3aJm6yZiSnoyqf)
