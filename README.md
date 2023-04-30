@@ -6,16 +6,16 @@ For a more detailed overview, please take a look at the [pdf version](https://gi
 ## Hardware dependencies
 - General Equipment
   - UR5e robot arm
-  - Robotiq Hand E Gripper with IO coupling
-  - 3D printed gripper jaws
-  - Azure Kinect camera
+  - Robotiq Hand E Gripper 
+  - IDS U3-3800CP Camera
+  - Intel Realsense D435i
 - Taskboard
   - 3D printed cable hook
 - BYOD Transferability Task
-  - Tektronix TDS 2002B
-  - Custom PCB
+  - Tektronix TDS 2002B Oscilloscope
+  - Custom PCB (self soldered)
   - Custom plug for robot
-  - Computer
+  - Old computer
 
 ## Software dependencies
 - ROS
